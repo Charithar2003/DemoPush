@@ -4,7 +4,8 @@ public class Welcome {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		System.out.println("Working with eclipse")
+		System.out.println("Working with eclipse");
+		System.out.println("Working with eclipse line 2");
 
 	}
 
